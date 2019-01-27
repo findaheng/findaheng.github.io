@@ -29,9 +29,4 @@ I will mainly be using HTML to code the text of this website. However, I will al
 ### Implementation
 **TODO**: Complete this while you're working on your project. Preferably, you're describing what steps you took for different parts of the project.
 
-I plan to use Codeacademy to learn web development languages -- HTML, CSS, JavaScript. However, due to the short timeframe given for this projet, I will also refer to an article as a guide to build website from scratch (listed below in supplementary material). However, I will add more features by using a navigation system.
-
-### Supplementary Material
-**TODO**: Include any links to materials that might help people learn more about your project.
-
-https://medium.com/@robcobbable/make-a-resume-website-from-scratch-991845147ecs
+I plan to use Codeacademy to learn web development languages -- HTML, CSS, JavaScript. However, due to the short timeframe given for this project, I will also refer to an article as a guide to build website from scratch. 
