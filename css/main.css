@@ -70,11 +70,10 @@ a:after {
 /* Header Wrap */
 .header {
   background: url(../images/header-bg-2.jpg) no-repeat center top;
-  padding-top:100px;
   text-align:center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 300px;
   width: 100%;
 
   -webkit-background-size: 100%;
