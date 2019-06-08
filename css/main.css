@@ -88,11 +88,13 @@ a:after {
 }
 
 .header h1 {
+  font-family: "Raleway";
   font-size: 80px;
   color: white;
 }
 
 .header h2 {
+  font-family: "Raleway";
   font-size: 30px;
   color: white;
 }
