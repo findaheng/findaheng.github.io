@@ -1,4 +1,5 @@
 body {
+  padding-top: 48px;
   background-color: #f2f2f2;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
@@ -11,7 +12,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Garamond"; /* OPTIONAL: Google Fonts - title font */
+  font-family: "Raleway"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 300;
   color: #333;
 }
@@ -63,9 +64,40 @@ a:after {
   padding: 0;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+}
+
 /*---------------------------------------------------
   SECTION WRAPS
 ---------------------------------------------------*/
+
+#nav-contact {
+  float: right;
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navigation li a:hover {
+  background-color: #111;
+}
 
 /* Header Wrap */
 .header {
